@@ -1,7 +1,7 @@
-# FeatureRank: AI-Powered Feature Prioritization Tool
+# ProductIQ: AI-Powered Feature Prioritization Tool
 
 ## 📌 Overview
-FeatureRank is a data-driven **feature prioritization tool** designed to help product managers, engineers, and teams rank product features effectively. Using frameworks like **RICE** and **MoSCoW**, FeatureRank provides insights into which features should be prioritized for development. The tool supports CSV uploads, manual data entry, and dynamic visualization.
+ProductIQ is a data-driven **feature prioritization tool** designed to help product managers, engineers, and teams rank product features effectively. Using frameworks like **RICE** and **MoSCoW**, FeatureRank provides insights into which features should be prioritized for development. The tool supports CSV uploads, manual data entry, and dynamic visualization.
 
 ## 🚀 Features
 - **🔢 RICE & MoSCoW Prioritization** – Choose between **RICE (Reach, Impact, Confidence, Effort)** or **MoSCoW (Must Have, Should Have, etc.)** frameworks.
@@ -47,8 +47,8 @@ If your dataset has different column names, the tool will prompt you to map them
 - 📊 **More Visualization & Roadmap Tools**.
 
 ## 🤝 Contributing
-Want to improve **FeatureRank**? Feel free to submit pull requests!
+Want to improve **ProductIQ**? Feel free to submit pull requests!
 
 ## 📜 License
-MIT License © 2025 Your Name
+MIT License © 2025 Shivaani Komanduri
 
